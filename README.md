@@ -169,26 +169,6 @@ The dashboard makes it easier to identify:
 * Customer acquisition and retention trends
 * Differences in performance between regions
 
-## 📁 Repository Structure
-
-```text
-bank-branch-performance-powerbi/
-│
-├── README.md
-│
-├── dataset/
-│   └── Bank_Branch_Performance_Dataset.xlsx
-│
-├── powerbi/
-│   └── Bank_Branch_Performance_Analysis.pbix
-│
-├── screenshots/
-│   └── bank-branch-dashboard.png
-│
-└── documentation/
-    └── project-documentation.md
-```
-
 ## 🎓 Skills Demonstrated
 
 * Data cleaning
