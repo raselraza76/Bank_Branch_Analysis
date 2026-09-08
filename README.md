@@ -215,5 +215,3 @@ I created this project to practice analyzing business data with Power BI and to 
 
 ---
 
-
-দুটোই পরিষ্কারভাবে দেখাচ্ছো।
